@@ -7,7 +7,7 @@ How to Use (currently):
 2. Change API keys 
 3. run ngrok(./ngrok http 5000) and then run main.py
 4. use flask functions in main.py to see changes on a webpage (eg: http://054712e0.ngrok.io/object/)
-5. Android application will be updated soon
+5. Android application will be update in the future
 
 
 Devpost Link: https://devpost.com/software/what-s-there-bz8htw
